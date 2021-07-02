@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">talk</string>
+    <string name="version">v1.0.0</string>
+    <string name="update">Please update <b>talk</b> to the latest version for continued usage</string>
+    <string name="stuff">This my second app that I made. I am still a newcomer to software development, so please feel free to contact
+    me in my socials in case of any bugs and glitches, or maybe a feedback!</string>
+    <string name="libs1"><b>Jitsi</b> for the Video calling Interface</string>
+    <string name="libs2"><b>CircleImageView</b> for Circular Picture View</string>
+    <string name="credits2"><b>IconFinder</b> and <b>FlatIcons</b> for all the icons and the main icon</string>
+    <string name="credits1"><b>YouTube</b> and <b>StackOverflow</b> for almost everything.</string>
+</resources>
